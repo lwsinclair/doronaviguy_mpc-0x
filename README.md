@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-doronaviguy-mpc-0x-badge.png)](https://mseep.ai/app/mcp-mirror-doronaviguy-mpc-0x)
+
 # MCP Ethereum Address Info Server
 
 This server provides information about Ethereum addresses across multiple chains using the Model Context Protocol (MCP). It includes a Server-Sent Events (SSE) endpoint for real-time updates.
